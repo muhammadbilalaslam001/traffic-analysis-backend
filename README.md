@@ -73,7 +73,7 @@ The API documentation will be available at `/api-docs` when the server is runnin
 
 ## Testing
 
-Run the test suite:
+Run test suite:
 ```bash
 npm test
 ```
